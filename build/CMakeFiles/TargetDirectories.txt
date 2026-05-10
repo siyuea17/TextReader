@@ -1,0 +1,2 @@
+C:/D/TextReader/TextReader/build/CMakeFiles/edit_cache.dir
+C:/D/TextReader/TextReader/build/CMakeFiles/rebuild_cache.dir
