@@ -1,0 +1,11 @@
+set(lupdate_project_file "C:/D/TextReader/source/CMakeLists.txt")
+set(lupdate_translations "C:/D/TextReader/source/TextReader_zh_CN.ts")
+set(lupdate_include_paths "")
+set(lupdate_sources "")
+set(lupdate_subproject_count 1)
+
+set(lupdate_subproject1_source_dir "C:/D/TextReader/source")
+set(lupdate_subproject1_include_paths "C:/D/TextReader/build/TextReader_autogen/include;C:/Qt/6.11.0/mingw_64/include/QtCore;C:/Qt/6.11.0/mingw_64/include;C:/Qt/6.11.0/mingw_64/mkspecs/win32-g++;C:/Qt/6.11.0/mingw_64/include;C:/Qt/6.11.0/mingw_64/include/QtWidgets;C:/Qt/6.11.0/mingw_64/include;C:/Qt/6.11.0/mingw_64/include/QtGui;C:/Qt/6.11.0/mingw_64/include")
+set(lupdate_subproject1_sources "C:/D/TextReader/build/TextReader_autogen/mocs_compilation.cpp;main.cpp;mainwindow.cpp;mainwindow.h;mainwindow.ui;C:/D/TextReader/build/.qt/rcc/TextReader_translations.qrc;C:/D/TextReader/build/TextReader_zh_CN.qm;C:/D/TextReader/build/.qt/rcc/qrc_TextReader_translations.cpp;C:/D/TextReader/build/TextReader_autogen/include/ui_mainwindow.h;C:/D/TextReader/build/TextReader_autogen/timestamp;C:/D/TextReader/build/TextReader_zh_CN.qm.rule;C:/D/TextReader/build/.qt/rcc/qrc_TextReader_translations.cpp.rule;C:/D/TextReader/build/TextReader_autogen/timestamp.rule")
+set(lupdate_subproject1_excluded "")
+set(lupdate_subproject1_autogen_dir "C:/D/TextReader/build/TextReader_autogen")

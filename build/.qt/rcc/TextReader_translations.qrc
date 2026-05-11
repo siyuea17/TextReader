@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/i18n">
+    <file alias="TextReader_zh_CN.qm">C:/D/TextReader/build/TextReader_zh_CN.qm</file>
+  </qresource>
+</RCC>
+

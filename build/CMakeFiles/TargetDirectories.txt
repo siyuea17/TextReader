@@ -1,2 +1,13 @@
-C:/D/TextReader/TextReader/build/CMakeFiles/edit_cache.dir
-C:/D/TextReader/TextReader/build/CMakeFiles/rebuild_cache.dir
+C:/D/TextReader/build/CMakeFiles/TextReader.dir
+C:/D/TextReader/build/CMakeFiles/TextReader_lupdate.dir
+C:/D/TextReader/build/CMakeFiles/update_translations.dir
+C:/D/TextReader/build/CMakeFiles/TextReader_lrelease.dir
+C:/D/TextReader/build/CMakeFiles/release_translations.dir
+C:/D/TextReader/build/CMakeFiles/edit_cache.dir
+C:/D/TextReader/build/CMakeFiles/rebuild_cache.dir
+C:/D/TextReader/build/CMakeFiles/list_install_components.dir
+C:/D/TextReader/build/CMakeFiles/install.dir
+C:/D/TextReader/build/CMakeFiles/install/local.dir
+C:/D/TextReader/build/CMakeFiles/install/strip.dir
+C:/D/TextReader/build/CMakeFiles/TextReader_autogen_timestamp_deps.dir
+C:/D/TextReader/build/CMakeFiles/TextReader_autogen.dir
